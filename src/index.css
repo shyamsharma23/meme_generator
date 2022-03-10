@@ -60,6 +60,9 @@ html{
 
 .meme {
   position: relative;
+  margin: 0 auto;
+  width: 500px;
+  margin-top: 20px;
 }
 
 .meme--image {
@@ -94,6 +97,10 @@ html{
 
 .bottom {
   bottom: 0;
+}
+.button:hover{
+  background-color: white;
+  color: blueviolet;
 }
 
 .top {
